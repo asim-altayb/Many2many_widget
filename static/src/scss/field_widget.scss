@@ -1,0 +1,12 @@
+.ui-autocomplete{height:350px;}
+.ui-autocomplete{overflow:hidden; overflow-y:scroll;}
+.o_field_widget.o_field_many2manytags .badge .o_badge_text {
+    display: inline-block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: top;
+    max-width: 100%;
+    color: inherit;
+}
